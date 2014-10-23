@@ -1,6 +1,6 @@
 Forecasting
 ==========
-(c) Isidro Hidalgo Arellano
+(c) Isidro Hidalgo Arellano (ihidalgo@jccm.es)
 
 (c) Observatorio de Empleo de la Junta de Comunidades de Castilla-La Mancha (Spain)
 
