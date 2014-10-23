@@ -1,4 +1,4 @@
-Predicting
+Forecasting
 ==========
 (c) Isidro Hidalgo Arellano
 (c) Observatorio de Empleo de la Junta de Comunidades de Castilla-La Mancha (Spain)
