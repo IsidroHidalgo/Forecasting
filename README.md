@@ -10,4 +10,5 @@ Models used are:
 - LOESS regression
 - Exponential Smoothing
 - TRAMO-SEATS (testing the R version)
-- ARIMA X12
+- ARIMA X13
+- UComp
